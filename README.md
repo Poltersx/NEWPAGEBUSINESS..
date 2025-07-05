@@ -2,25 +2,15 @@
 <html lang="es">
 <head>
   <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Bienvenido a VLOX</title>
-</head>
-<body style="text-align:center; font-family:sans-serif;">
-  <h1>VLOX+</h1>
-  <p>La nueva era del estilo masculino ha comenzado.</p>
-</body>
-</html>
-<!DOCTYPE html>
-<html lang="es">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>VLOX - Ropa y Calzado</title>
   <style>
     body {
       margin: 0;
       font-family: 'Segoe UI', sans-serif;
       background-color: #111;
       color: #fff;
+      text-align: center;
     }
     header {
       background: #000;
@@ -87,7 +77,7 @@
 </head>
 <body>
   <header>
-    <h2>VLOX</h2>
+    <h2>VLOX+</h2>
     <nav>
       <a href="#ropa">Ropa</a>
       <a href="#calzado">Calzado</a>
@@ -97,7 +87,7 @@
   </header>
 
   <div class="hero">
-    <h1>Estilo Varonil. Fuerza Real.</h1>
+    <h1>La nueva era del estilo masculino ha comenzado.</h1>
   </div>
 
   <section class="section" id="ropa">
